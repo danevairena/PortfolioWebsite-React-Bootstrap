@@ -75,7 +75,7 @@
 .left-column h1{
   font-size:60px;
   position: absolute;
-  top: 25%;
+  top: 250px;
   text-align: center;
   margin-left: 3%;
 }
@@ -137,16 +137,6 @@
 }
 .social-icons a.instagram:hover {
   background-color: deeppink;
-}
-@media screen and (max-width: 600px) {
-  #girl {
-    visibility: hidden;
-    clear: both;
-    float: left;
-    margin: 10px auto 5px 20px;
-    width: 28%;
-    display: none;
-  }
 }
 #aboutpage {
   display: flex;
