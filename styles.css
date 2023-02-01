@@ -62,10 +62,10 @@
 }
 .right-column img {
 
-  height: 70%;
+  height: 550px;
   left: 50%;
   position: absolute;
-  top: 15%;
+  top: 150px;
   border-radius: 50%;
 }
 .right-column img:hover {
@@ -88,7 +88,7 @@
   margin-top: 1rem;
   width: 20rem;
   position: absolute;
-  top: 60%;
+  top: 450px;
   line-height: 0;
   padding: 1rem 3rem;
   border-radius: 4em;
@@ -100,7 +100,7 @@
 }
 .socials {
   position: absolute;
-  top: 73%;
+  top: 550px;
   margin-left: 11.5%;
 }
 
