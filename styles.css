@@ -141,7 +141,7 @@
 @media (max-width: 600px) {
   
   .right-column img {
-    display: none;
+    visibility: hidden;
   }
 }
 #aboutpage {
