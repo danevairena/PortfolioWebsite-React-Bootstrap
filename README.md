@@ -1,6 +1,7 @@
 # Portfolio Website — Irena Daneva
 
-You can visit on https://danevairena.github.io/PortfolioWebsite-React-Bootstrap/
+**Live Demo:**
+https://danevairena.github.io/PortfolioWebsite-React-Bootstrap/
 
 ---
 
@@ -34,10 +35,18 @@ As a UI/UX-oriented front-end developer, I created the entire website—from con
 ---
 
 ## Screenshots  
+
+### Home Page  
 <img src="https://github.com/danevairena/PortfolioWebsite-React-Bootstrap/blob/main/re1.png"></img><br>
 <img src="https://github.com/danevairena/PortfolioWebsite-React-Bootstrap/blob/main/re2.png"></img><br>
+
+### About Mе
 <img src="https://github.com/danevairena/PortfolioWebsite-React-Bootstrap/blob/main/re3.png"></img><br>
+
+### Education Section
 <img src="https://github.com/danevairena/PortfolioWebsite-React-Bootstrap/blob/main/re4.png"></img><br>
+
+### Skills Section  
 <img src="https://github.com/danevairena/PortfolioWebsite-React-Bootstrap/blob/main/re5.png"></img><br>
 
 ---
